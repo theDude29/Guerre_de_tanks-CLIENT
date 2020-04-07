@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/BoutonManette.cpp
+	<irrlicht/irrlicht.h>
+	"BoutonManette.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/BoutonManette.h
+	<irrlicht/irrlicht.h>
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/client.cpp
+	"client.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/client.h
+	<SFML/Network.hpp>
+	<irrlicht/irrlicht.h>
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/decor.cpp
+	<irrlicht/irrlicht.h>
+	<ctime>
+	<vector>
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/Explosion.cpp
+	<irrlicht/irrlicht.h>
+	"Explosion.h"
+	"vector3d_operateur.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/Explosion.h
+	<irrlicht/irrlicht.h>
+	<SFML/Audio.hpp>
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/vector3d_operateur.h
+	<irrlicht/vector3d.h>
+	<SFML/Network/Packet.hpp>
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/GestionBruits.cpp
+	"GestionBruits.h"
+	"Joueur.h"
+	"MyGui.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/GestionBruits.h
+	<SFML/Audio.hpp>
+	"Joueur.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/Joueur.h
+	<irrlicht/irrlicht.h>
+	"infoPositionRotationJoueur.h"
+	<SFML/System/String.hpp>
+	"client.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/infoPositionRotationJoueur.h
+	<irrlicht/irrlicht.h>
+	<SFML/Network/Packet.hpp>
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/MyGui.h
+	<irrlicht/irrlicht.h>
+	"TankNormal.h"
+	"MyCamera.h"
+	"BoutonManette.h"
+	"GestionBruits.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/TankNormal.h
+	<list>
+	<irrlicht/irrlicht.h>
+	"vector3d_operateur.h"
+	"Joueur.h"
+	"Shoot.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/Shoot.h
+	<irrlicht/irrlicht.h>
+	"GestionExplosion.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/GestionExplosion.h
+	<irrlicht/irrlicht.h>
+	<vector>
+	"Explosion.h"
+	<SFML/Network.hpp>
+	"GestionBruits.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/MyCamera.h
+	<irrlicht/irrlicht.h>
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/GestionExplosion.cpp
+	"GestionExplosion.h"
+	"client.h"
+	"vector3d_operateur.h"
+	"TankNormal.h"
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/infoPartie.cpp
+	"infoPartie.h"
+	"vector3d_operateur.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/infoPartie.h
+	<vector>
+	"client.h"
+	<irrlicht/vector3d.h>
+	<SFML/System.hpp>
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/infoPositionRotationJoueur.cpp
+	"infoPositionRotationJoueur.h"
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/Joueur.cpp
+	"Joueur.h"
+
+1535009109 source:/home/remi/Bureau/GuerreDeTank-Client_src/main.cpp
+	"MyEventReceiver.h"
+	"MyEventReceiver2.h"
+	"decor.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/MyEventReceiver.h
+	<irrlicht/irrlicht.h>
+	<SFML/Network.hpp>
+	"client.h"
+	"vector3d_operateur.h"
+
+1534928026 /home/remi/Bureau/GuerreDeTank-Client_src/MyEventReceiver2.h
+	<irrlicht/irrlicht.h>
+	"TankNormal.h"
+	"MyGui.h"
+	"MyCamera.h"
+	"infoPositionRotationJoueur.h"
+
+1527929692 /home/remi/Bureau/GuerreDeTank-Client_src/decor.h
+	<irrlicht/irrlicht.h>
+	"vector3d_operateur.h"
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/MyCamera.cpp
+	<irrlicht/irrlicht.h>
+	"MyCamera.h"
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/MyEventReceiver.cpp
+	"MyEventReceiver.h"
+	<SFML/Network.hpp>
+	<SFML/System.hpp>
+	"infoPartie.h"
+
+1538673615 source:/home/remi/Bureau/GuerreDeTank-Client_src/MyEventReceiver2.cpp
+	"MyEventReceiver2.h"
+	<iostream>
+	<irrlicht/irrlicht.h>
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/MyGui.cpp
+	<irrlicht/irrlicht.h>
+	"MyGui.h"
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/Shoot.cpp
+	"Shoot.h"
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/TankNormal.cpp
+	<irrlicht/irrlicht.h>
+	"TankNormal.h"
+	"GestionBruits.h"
+
+1527929564 source:/home/remi/Bureau/GuerreDeTank-Client_src/vector3d_operateur.cpp
+	"vector3d_operateur.h"
+

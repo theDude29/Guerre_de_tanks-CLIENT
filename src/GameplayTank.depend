@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1516980787 source:/home/remi/irrlicht/GameplayTank/main.cpp
+	<irrlicht/irrlicht.h>
+	"decor.h"
+	"MyEventReceiver.h"
+	"TankNormal.h"
+	"MyGui.h"
+	"MyCamera.h"
+
+1516981171 source:/home/remi/irrlicht/GameplayTank/decor.cpp
+	<irrlicht/irrlicht.h>
+	<ctime>
+
+1512406422 /home/remi/irrlicht/GameplayTank/decor.h
+	<irrlicht/irrlicht.h>
+
+1507997846 source:/home/remi/irrlicht/GameplayTank/Camera3Pers.cpp
+	<irrlicht/irrlicht.h>
+	"Camera3Pers.h"
+
+1507997954 /home/remi/irrlicht/GameplayTank/Camera3Pers.h
+	<irrlicht/irrlicht.h>
+
+1519987854 source:/home/remi/irrlicht/GameplayTank/MyEventReceiver.cpp
+	"MyEventReceiver.h"
+	<irrlicht/irrlicht.h>
+	<iostream>
+
+1516979178 /home/remi/irrlicht/GameplayTank/MyEventReceiver.h
+	<irrlicht/irrlicht.h>
+	"TankNormal.h"
+	"MyGui.h"
+	"MyCamera.h"
+
+1516980402 /home/remi/irrlicht/GameplayTank/TankNormal.h
+	<list>
+	<irrlicht/irrlicht.h>
+	"Explosion.h"
+	<SFML/Audio.hpp>
+
+1516981158 source:/home/remi/irrlicht/GameplayTank/TankNormal.cpp
+	<irrlicht/irrlicht.h>
+	"TankNormal.h"
+	"Explosion.h"
+
+1516980383 source:/home/remi/irrlicht/GameplayTank/Explosion.cpp
+	<irrlicht/irrlicht.h>
+	"Explosion.h"
+
+1516980125 /home/remi/irrlicht/GameplayTank/Explosion.h
+	<irrlicht/irrlicht.h>
+	<SFML/Audio.hpp>
+
+1513704181 source:/home/remi/irrlicht/GameplayTank/Gui.cpp
+	<iostream>
+	<irrlicht/irrlicht.h>
+	"Gui.h"
+
+1513704153 /home/remi/irrlicht/GameplayTank/Gui.h
+	<irrlicht/irrlicht.h>
+	<list>
+
+1516972537 /home/remi/irrlicht/GameplayTank/myGui.h
+	<irrlicht/irrlicht.h>
+	<list>
+	"TankNormal.h"
+	"MyCamera.h"
+	"BoutonManette.h"
+
+1516972568 source:/home/remi/irrlicht/GameplayTank/myGui.cpp
+	<iostream>
+	<irrlicht/irrlicht.h>
+	"myGui.h"
+
+1516976662 source:/home/remi/irrlicht/GameplayTank/MyCamera.cpp
+	<irrlicht/irrlicht.h>
+	"MyCamera.h"
+
+1516976554 /home/remi/irrlicht/GameplayTank/MyCamera.h
+	<irrlicht/irrlicht.h>
+
+1516979693 source:/home/remi/irrlicht/GameplayTank/BoutonManette.cpp
+	<irrlicht/irrlicht.h>
+	"BoutonManette.h"
+
+1514815895 /home/remi/irrlicht/GameplayTank/BoutonManette.h
+	<irrlicht/irrlicht.h>
+
+1519987226 /home/remi/irrlicht/GameplayTank/MyGui.h
+	<irrlicht/irrlicht.h>
+	"TankNormal.h"
+	"MyCamera.h"
+	"BoutonManette.h"
+
+1519989637 source:/home/remi/irrlicht/GameplayTank/MyGui.cpp
+	<irrlicht/irrlicht.h>
+	"MyGui.h"
+
